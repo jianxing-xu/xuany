@@ -1,8 +1,8 @@
 # Hi, I am xuany（许健兴），一名前端开发工程师
 ### 我2022年毕业于宜春学院（本科）🏫
   + 你可以通过电话或电子邮件联系我
-    - Phone: tel:18370014984
-    - Email: xjx_me@yeah.net
+    - Phone: `18370014984`
+    - Email: `xjx_me@yeah.net`
 
 # 我的技能
   + 熟练掌握Web基础知识，`HTML`、`CSS`、`JS`

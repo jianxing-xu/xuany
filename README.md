@@ -2,7 +2,7 @@
 ### 我2022年毕业于宜春学院（本科）🏫
   + 你可以通过电话或电子邮件联系我
     - Phone: `18370014984`
-    - Email: `xjx_me@yeah.net`
+    - Email: xjx_me@yeah.net
 
 # 我的技能
   + 熟练掌握Web基础知识，`HTML`、`CSS`、`JS`
